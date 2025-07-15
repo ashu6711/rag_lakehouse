@@ -71,4 +71,17 @@ The application consists of several services that work together:
 ![Architecture Diagram](architecture.png)
 
 
+# Future Works
+
+* Implement IP address rotation to prvent from being flagged by the websites 
+* Expand data 
+* Implement star and snowflake schemas for data warehousing 
+* Iteratively improve the chunking mechanism of the data for better relevancy and result
+* Work on prompt engineering for better data retrival
+* Implement GPU acclerated evaluation and execution when working with LLMs
+* Build UI to interact with the RAG
+
+## DEMO LINK: ``
+
+
 
