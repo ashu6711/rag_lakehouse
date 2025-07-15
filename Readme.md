@@ -81,7 +81,8 @@ The application consists of several services that work together:
 * Implement GPU acclerated evaluation and execution when working with LLMs
 * Build UI to interact with the RAG
 
-## DEMO LINK: ``
+## DEMO LINK: 
+`https://drive.google.com/file/d/1dHTzhN_MP_SPi0MxmCx7PNtEx22HTVXt/view?usp=drive_link`
 
 
 
