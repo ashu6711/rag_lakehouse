@@ -1,0 +1,7 @@
+FROM ollama/ollama:latest
+
+RUN /bin/sh -c ' \
+    ollama serve & \
+    sleep 15 && \
+    ollama pull mistral:7b \
+    '
